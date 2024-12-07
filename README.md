@@ -19,7 +19,7 @@ This repository contains my work for Week 2 of the **Python Selenium Learning Jo
 - Used the **PrettyTable** Python package to display the extracted data in a clean, tabular format for enhanced readability.  
 
 ### **Task 4: Automate Search and Results Handling**  
-- Automated the process of searching for a keyword on e-commerce platforms and extracted product names, prices, and ratings from the search results.  
+- Automated the process of searching for a keyword on e-commerce platforms and extracted product names and prices from the search results.  
 
 ---
 
