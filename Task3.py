@@ -32,7 +32,6 @@ for data in tableData:
     age = data.find_elements(By.TAG_NAME, 'td')[2]
     salary = data.find_elements(By.TAG_NAME, 'td')[4]
     table.add_row([firstName.text, age.text, salary.text])
-    print(firstName)
 
 time.sleep(5)
 driver.quit()#Ends the driver
